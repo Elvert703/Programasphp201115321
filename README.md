@@ -6,8 +6,8 @@ LICENCIATURA EN LA ENSEÑANZA DE LA IFORMATICA Y COMPUTACIÓN.<br>
 CURSO: DIDACTICA DE LA COMPUTACIÓN.</h5><br>
 <center><h4>PRACTICA BASICA DE PHP, GIT Y GITHUB</h4></center>
 <br>
-<h4>Nombre:   Elvert Francisco Orellana Samayoa </h4><br>
-<h4>Carnet:   201115321 </h4><br>
+<h4>Nombre:   Elvert Francisco Orellana Samayoa<br>
+Carnet:   201115321 </h4><br>
 <hr>
 <br>
 <table border=1>
