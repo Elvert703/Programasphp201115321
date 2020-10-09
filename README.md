@@ -4,7 +4,7 @@ ESCUELA DE FORMACIÓN DE PROFESORES DE ENSEÑANZA MEDIA - EFPEM.<br>
 CATEDRA DE COMPUTACIÓN E INFORMATICA - CCI<br>
 LICENCIATURA EN LA ENSEÑANZA DE LA IFORMATICA Y COMPUTACIÓN.<br>
 CURSO: DIDACTICA DE LA COMPUTACIÓN.</h5><br>
-<center><h4>PRACTICA BASICA DE PHP, GIT Y GITHUB</h4></center>
+<h4 align="center">PRACTICA BASICA DE PHP, GIT Y GITHUB</h4>
 <br>
 <h4>Nombre:   Elvert Francisco Orellana Samayoa<br>
 Carnet:   201115321 </h4><br>
@@ -49,5 +49,9 @@ Carnet:   201115321 </h4><br>
 <td>    Es un ejemplo de como se utiliza la programación orientada a objetos en php     . </td>
 <td><a href="index.php">  PROGRAMCION O.O .</a></td>
 </tr>
+</table>
+</table align="center">
+<th><img src="imagenes/img1.jpg" width="150" height="90"></th>
+<th><img src="imagenes/img2.png" width="150" height="90></th>
 </table>
 
