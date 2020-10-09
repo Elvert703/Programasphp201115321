@@ -52,6 +52,6 @@ Carnet:   201115321 </h4><br>
 </table>
 </table align="center">
 <th><img src="imagenes/img1.jpg" width="150" height="90"></th>
-<th><img src="imagenes/img2.png" width="150" height="90></th>
+<th><img src="imagenes/img2.png" width="150" height="90"></th>
 </table>
 
