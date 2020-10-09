@@ -50,7 +50,7 @@ Carnet:   201115321 </h4><br>
 <td><a href="index.php">  PROGRAMCION O.O .</a></td>
 </tr>
 </table>
-<table>
+<table align="center">
 <th><img src="imagenes/img1.jpg" width="150" height="90"></th>
 <th><img src="imagenes/img2.png" width="150" height="90"></th>
 </table>
