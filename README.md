@@ -16,11 +16,38 @@ Carnet:   201115321 </h4><br>
 <th>Enlace.</th>
 <tr>
 <td>1</td>
-<td>Promedio de 4 numeros</td>
-<td><a href="promedio.php">Promedio</a></td>
+<td> Promedio de 4 numeros</td>
+<td><a href="promedio.php">   Promedio</a></td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Area de un trapecio. </td>
-<td><a href="trapecio.php">Trapecio</a></td>
+<td> Area de un trapecio. </td>
+<td><a href="trapecio.php">   Trapecio</a></td>
 </tr>
+<tr>
+<td>3.</td>
+<td> Mayor, Menor y medio de tres valores ingresados     . </td>
+<td><a href="calculo.php">  Mayor/Menor .</a></td>
+</tr>
+<tr>
+<td>4.</td>
+<td> Indicar que vocal se repite mas en un texto     . </td>
+<td><a href="vocales.php">  Vocales .</a></td>
+</tr>
+<tr>
+<td>5.</td>
+<td> Convetir de Binario a sistema Decimal     . </td>
+<td><a href="binario.php">  Binario .</a></td>
+</tr>
+<tr>
+<td>6.</td>
+<td> Ordenar de forma Ascendente y Descendente 20 valores númericos almacenados en un array      . </td>
+<td><a href="ordenar.php">  Ordena de una rango de numeros .</a></td>
+</tr>
+<tr>
+<td>7.</td>
+<td>    Es un ejemplo de como se utiliza la programación orientada a objetos en php     . </td>
+<td><a href="index.php">  PROGRAMCION O.O .</a></td>
+</tr>
+</table>
+
