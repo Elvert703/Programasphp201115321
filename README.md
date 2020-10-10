@@ -50,8 +50,19 @@ Carnet:   201115321 </h4><br>
 <td><a href="index.php">  PROGRAMCION O.O .</a></td>
 </tr>
 </table>
+<table>
+<th>PROGRAMACION P.O.O</th>
+<tr>
+<th> Clase </th>
+<th> Objeto </th>
+<th> Ques significa instanciar una clase </th>
+</tr>
+</table>
 <table align="center">
 <th><img src="imagenes/img1.jpg" width="150" height="90"></th>
 <th><img src="imagenes/img2.png" width="150" height="90"></th>
 </table>
+<br>
+<h5 align="center">"Id y enseñad a todos"</h5>
+
 
