@@ -50,12 +50,20 @@ Carnet:   201115321 </h4><br>
 <td><a href="index.php">  PROGRAMCION O.O .</a></td>
 </tr>
 </table>
+<h5 align="center"> PROGRAMACION POO </h5>
 <table>
-<th>PROGRAMACION P.O.O</th>
-<tr>
 <th> Clase </th>
 <th> Objeto </th>
 <th> Ques significa instanciar una clase </th>
+</tr>
+<tr>
+<td>Clase. Es una construcción que permite crear tipos personalizados propios mediante la agrupación de variables de otros tipos, métodos y eventos. Una clase es como un plano. Define los datos y el comportamiento de un tipo. Si la clase no se declara como estática, el código de cliente puede utilizarla mediante la creación de objetos o instancias que se asignan a una variable. </td>
+</tr>
+<tr>
+<td>Una clase representa al conjunto de objetos que comparten una estructura y un comportamiento comunes. Una clase es una combinación específica de atributos y métodos y puede considerarse un tipo de dato de cualquier tipo no primitivo.</td>
+</tr>
+<tr>
+<td>Instanciar objetos es el proceso de generar un ejemplar de una clase, es decir, la clase es como una declaración de una forma y el objeto es un caso o elemento concreto que responde a esa forma. ... Podemos crear infinitos objetos a partir de una clase, cada uno sería una instancia de la clase o un ejemplar de esa clase.</td>
 </tr>
 </table>
 <table align="center">
